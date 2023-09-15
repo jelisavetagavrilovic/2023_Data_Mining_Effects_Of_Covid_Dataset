@@ -10,5 +10,7 @@ Možete ih instalirati pokretanjem komande u terminalu:
 
 ## Korišćeni alogiritmi:
 Klasifikacija: DecisionTreeClasifier, RandomForestClasifier, KNeighborsClasifier
+
 Klasterovanje: KMeans, Agglomerative
+
 Pravila pridruživanja: Apriori
